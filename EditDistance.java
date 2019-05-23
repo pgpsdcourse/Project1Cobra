@@ -1,4 +1,4 @@
-public class EditDistance {
+public class EditDistance throws IOException{
 
     /**
      * Returns the EditDistance between source and target string
